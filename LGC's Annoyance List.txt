@@ -1,0 +1,36 @@
+﻿! Version: 20180513
+! Title:  琛❤的去广告
+! Last modified: 1997/12/21 05:20 +0800
+! Expires: 5201314 days (update frequency)
+! Licence: https://easylist-downloads.adblockplus.org/COPYING
+! Email: 1006078591@qq.com
+! Homepage: http://1006078591.qzone.qq.com
+
+!--下面就是不知道有没有作用的规则了
+
+!--文件编码请使用UTF-8
+
+||*.52tushuo.com
+||*.chexiw.com
+||*.cn-3drp.com
+||*.dnfeu.com
+||*.fkkse.com
+||*.jlkja.com
+||*.jwiyr.com
+||*.meizhuanghe.com
+||*.nernv.com
+||*.nmtouzi.com
+||*.nnfiy.com
+||*.statstat888.com
+||*.wgewj.cn
+||*.wxhh678.com
+||*.yumengguan.com
+||*.yyeks.com
+||tui.xinkuai.com
+||uri6.com
+||uun.1uandun.com
+||xjq.jxmqkj.com
+||ms.continuedsys.cn
+||*.pomkl.com
+||*.zuopp.com
+||*.kunpp.com
